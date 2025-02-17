@@ -27,7 +27,7 @@
   "devDependencies": {
     "nodemon": "^3.1.7",
     "eslint": "^8.57.1",
-    "electron": "^33.2.0",
+    "electron": "^34.2.0",
     "electron-builder": "^25.1.8",
     "eslint-plugin-node": "^11.1.0",
     "electron-reload": "^2.0.0-alpha.1",
